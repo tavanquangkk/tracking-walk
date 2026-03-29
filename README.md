@@ -2,8 +2,8 @@
 
 A new Flutter project.
 
-[ホームページ](./appscreen/main-screen.jpg)
-[追跡画面](./appscreen/tracking-screen.jpg)
+![ホームページ](./appscreen/main-screen.jpg)
+![追跡画面](./appscreen/tracking-screen.jpg)
 
 ## Getting Started
 
